@@ -7,11 +7,10 @@
 ## Úvod hry
 Na začátku hry vysvětlí děj a pravidla hry npc starý děda, který bude hráče doprovázet po celou jejich cestu. 
 Jeho slova na začátek:
-1.	,, Dávno, když les ještě nebyl zapomenut lidmi a magie v něm volně proudila, se stalo něco děsivého. Bytosti, které kdysi byly spojenci lesa, se obrátily proti němu. Ježibaba se zmocnila bažin a drak ovládl temný les. Živé stromy byly zahaleny do stínu a vlk se stal zvědavým a nebezpečným.‘‘
+1.	,, Dávno, když les ještě nebyl zapomenut lidmi a magie v něm volně proudila, se stalo něco děsivého. Bytosti, které kdysi byly spojenci lesa, se obrátily proti němu. Živé stromy byly zahaleny do stínu a vlk se stal zvědavým a nebezpečným.‘‘
 2.	,, Vstupuješ do temného lesa, kde tajemství a nebezpečí číhají za každým stromem. Jsi jedinou nadějí pro překonání výzev, které tento les skrývá. Vyber si svou cestu a naplň svůj osud.‘‘
-3.	,,Tvým úkolem je projít lesními levely až do samotného konce. Cestou se setkáš s různými výzvami a hádankami, které musíš vyřešit. Sbírej pomůcky a získávej nové dovednosti, abys překonal všechny překážky. Máš pouze tři pokusy na každý level, takže zvažuj své kroky pečlivě.‘‘
-4.	,, Tvým cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Musíš překonat všechny nástrahy a dojít k cíli. Jen tak můžeš zachránit les a jeho obyvatele.‘‘
-5.	,,Tvá dobrodružství skončí až tehdy, když dorazíš na konec lesa a obnovíš jeho dávnou sílu. Ale pozor, ne každá cesta vede k úspěchu. Musíš být chytrý a opatrný, abys překonal všechny výzvy a dosáhl svého cíle.‘‘
+3.	,,Tvým úkolem je projít lesními levely až do samotného konce. Cestou se setkáš s různými výzvami a hádankami, které musíš vyřešit. Máš pouze tři pokusy na každý level, takže zvažuj své kroky pečlivě.‘‘
+4.	,, Tvým cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Musíš překonat všechny nástrahy a dojít k cíli. Jen tak můžeš zachránit les a jeho obyvatele. Tvá dobrodružství skončí až tehdy, když dorazíš na konec lesa a obnovíš jeho dávnou sílu. Ale pozor, ne každá cesta vede k úspěchu. Musíš být chytrý a opatrný, abys překonal všechny výzvy a dosáhl svého cíle.‘‘
 
 ## Cíl hry
   Cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Jen tak lze zachránit les a jeho obyvatele.
@@ -24,15 +23,15 @@ Jeho slova na začátek:
 Zde je místo pro doplnění životů (pokusů), hráč musí uhádnout tolik hádanek, kolik potřebuje životů.
 ### Lesní cesta:
 
-* Kořeny – 
+* Kořeny
 *	Vlk – pokud bude mít hráč málo správných odpovědí, bude přesunut do řeky, pokud tam hráč uspěje, půjde k čarodějnici a pak cestou dál
-*	Soví strážce – 
+*	Soví strážce 
 *	Bonus: Duch lesa
 ### Bažina:
  
-*	Žába – 
+*	Žába 
 *	Čarodějnice – pokud bude mít hráč málo správných odpovědí, bude přesunut k duchovi lesa, pokud tam hráč uspěje, půjde k vlkovi a pak cestou dál
-*	Král bažin – 
+*	Král bažin 
 *	Bonus: Řeka
   
 ### Propast
@@ -230,7 +229,8 @@ a.	Jaká je největší přehrada v jizerských horách?
 *	Souš
 *	Černá nisa
 *	**Josefův důl**
-10.	Hospoda
+  
+###  10.	Hospoda
 
 a.	Který z následujících lesních plodů je známý pro svůj vysoký obsah vitamínu C?
 
