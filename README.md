@@ -8,19 +8,20 @@
 Na začátku hry vysvětlí děj a pravidla hry npc starý děda, který bude hráče doprovázet po celou jejich cestu. 
 Jeho slova na začátek:
 1.	,, Dávno, když les ještě nebyl zapomenut lidmi a magie v něm volně proudila, se stalo něco děsivého. Bytosti, které kdysi byly spojenci lesa, se obrátily proti němu. Živé stromy byly zahaleny do stínu a vlk se stal zvědavým a nebezpečným.‘‘
-2.	,, Vstupuješ do temného lesa, kde tajemství a nebezpečí číhají za každým stromem. Jsi jedinou nadějí pro překonání výzev, které tento les skrývá. Vyber si svou cestu a naplň svůj osud.‘‘
-3.	,,Tvým úkolem je projít lesními levely až do samotného konce. Cestou se setkáš s různými výzvami a hádankami, které musíš vyřešit. Máš pouze tři pokusy na každý level, takže zvažuj své kroky pečlivě.‘‘
-4.	,, Tvým cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Musíš překonat všechny nástrahy a dojít k cíli. Jen tak můžeš zachránit les a jeho obyvatele. Tvá dobrodružství skončí až tehdy, když dorazíš na konec lesa a obnovíš jeho dávnou sílu. Ale pozor, ne každá cesta vede k úspěchu. Musíš být chytrý a opatrný, abys překonal všechny výzvy a dosáhl svého cíle.‘‘
-
+2.	,,Tvým úkolem je projít lesem nebo bažinou až do konce. Cestou se setkáš s různými výzvami a hádankami, které musíš vyřešit. Máš pouze tři pokusy na každý level, takže zvažuj své kroky pečlivě.‘‘
+3.	,, Tvým cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Musíš překonat všechny nástrahy a dojít k cíli – jen tak můžeš zachránit les a jeho obyvatele. Tvá dobrodružství skončí až tehdy, když dorazíš na konec lesa a obnovíš jeho dávnou sílu!‘‘
+![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/uvod.png)
 ## Cíl hry
   Cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Jen tak lze zachránit les a jeho obyvatele.
 
 ## Pravidla hry
-  Každý hráč má na hádanku jen tři pokusy a určitý čas, pokud tyto podmínky nesplní, musí celou hru hrát od znovu nebo popřípadě bude přesunut jinam.
+  Každý hráč má na každý level jen tři pokusy, pokud tyto podmínky nesplní, musí celou hru hrát od znovu nebo popřípadě bude přesunut jinam dle mapy.
 
 ## Levely
+Ke každému levelu je úvodní slovo:
+![uvod](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/postup.png)
 ### Hospoda
-Zde je místo pro doplnění životů (pokusů), hráč musí uhádnout tolik hádanek, kolik potřebuje životů.
+Zde je místo pro doplnění pokusů, hráč musí uhádnout tolik hádanek, kolik potřebuje pokusů.
 ### Lesní cesta:
 
 * Kořeny
@@ -38,6 +39,9 @@ Zde je místo pro doplnění životů (pokusů), hráč musí uhádnout tolik h�
 Hráč musí projít na propastí, bohužel má jen jeden pokus (poslední level)
 
 ## Hádanky
+![hadanka](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/otazka.png)
+![odpoved](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/odpoved.png)
+
 ### 1.	Kořeny
 
 a.	Pro kolik lidí vyprodukuje jeden velký vzrostlý listnatý strom kyslík za jeden den?
