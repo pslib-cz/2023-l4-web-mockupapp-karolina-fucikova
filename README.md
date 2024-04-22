@@ -4,6 +4,8 @@
 ## Hra – In the woods
   Hra s otázkami o přírodě ČR, kdy hráč musí uhádnout hádanky aby osvobodil les.
 
+  Figma:[odkaz](https://www.figma.com/file/cWEWOMEb4M9xZJM2pLdu8g/Mock-up?type=design&node-id=0%3A1&mode=design&t=i8BC9KY1O4wFCSjx-1)
+
 ## Úvod hry
 Na začátku hry vysvětlí děj a pravidla hry npc starý děda, který bude hráče doprovázet po celou jejich cestu. 
 Jeho slova na začátek:
