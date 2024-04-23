@@ -20,7 +20,7 @@ Jeho slova na začátek:
 ## Pravidla hry
   Každý hráč má na každý level jen tři pokusy, pokud tyto podmínky nesplní, musí celou hru hrát od znovu nebo popřípadě bude přesunut jinam dle mapy (Vlk, Čarodějnice – pokud bude mít hráč málo správných odpovědí, bude přesunut do řeky nebo k duchovi, pokud tam hráč uspěje, půjde pak danou cestou dál).
   
-![mapa](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/fb522419beeabec361fbf99f08e861265ee14dfc/vzhled/mapa.png)
+![mapa](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/936ca076127ce9b8e4ef749ff3fee996033f7fdc/vzhled/mapa2.png)
 ## Levely
 Ke každému levelu je úvodní slovo:
 
