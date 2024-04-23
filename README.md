@@ -10,39 +10,56 @@
 Na začátku hry vysvětlí děj a pravidla hry npc starý děda, který bude hráče doprovázet po celou jejich cestu. 
 Jeho slova na začátek:
 1.	,, Dávno, když les ještě nebyl zapomenut lidmi a magie v něm volně proudila, se stalo něco děsivého. Bytosti, které kdysi byly spojenci lesa, se obrátily proti němu. Živé stromy byly zahaleny do stínu a vlk se stal zvědavým a nebezpečným.‘‘
-2.	,,Tvým úkolem je projít lesem nebo bažinou až do konce. Cestou se setkáš s různými výzvami a hádankami, které musíš vyřešit. Máš pouze tři pokusy na každý level, takže zvažuj své kroky pečlivě.‘‘
+2.	,, Tvým úkolem je projít lesem nebo bažinou až do konce. Cestou se setkáš s různými výzvami a hádankami, které musíš vyřešit. Máš pouze tři pokusy na každý level, takže zvažuj své kroky pečlivě.‘‘
 3.	,, Tvým cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Musíš překonat všechny nástrahy a dojít k cíli – jen tak můžeš zachránit les a jeho obyvatele. Tvá dobrodružství skončí až tehdy, když dorazíš na konec lesa a obnovíš jeho dávnou sílu!‘‘
+
 ![ukazka](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/uvod.png)
 ## Cíl hry
   Cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Jen tak lze zachránit les a jeho obyvatele.
 
 ## Pravidla hry
-  Každý hráč má na každý level jen tři pokusy, pokud tyto podmínky nesplní, musí celou hru hrát od znovu nebo popřípadě bude přesunut jinam dle mapy.
-
+  Každý hráč má na každý level jen tři pokusy, pokud tyto podmínky nesplní, musí celou hru hrát od znovu nebo popřípadě bude přesunut jinam dle mapy (Vlk, Čarodějnice – pokud bude mít hráč málo správných odpovědí, bude přesunut do řeky nebo k duchovi, pokud tam hráč uspěje, půjde pak danou cestou dál).
+  
+![mapa](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/fb522419beeabec361fbf99f08e861265ee14dfc/vzhled/mapa.png)
 ## Levely
 Ke každému levelu je úvodní slovo:
-![uvod](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/postup.png)
-### Hospoda
-Zde je místo pro doplnění pokusů, hráč musí uhádnout tolik hádanek, kolik potřebuje pokusů.
-### Lesní cesta:
 
-* Kořeny
-*	Vlk – pokud bude mít hráč málo správných odpovědí, bude přesunut do řeky, pokud tam hráč uspěje, půjde k čarodějnici a pak cestou dál
-*	Soví strážce 
-*	Bonus: Duch lesa
-### Bažina:
- 
-*	Žába 
-*	Čarodějnice – pokud bude mít hráč málo správných odpovědí, bude přesunut k duchovi lesa, pokud tam hráč uspěje, půjde k vlkovi a pak cestou dál
-*	Král bažin 
-*	Bonus: Řeka
+![uvod](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/postup.png)
+
+* Hospoda – zde je místo pro doplnění pokusů, hráč musí uhádnout tolik hádanek, kolik potřebuje pokusů
+* Rozcestí – hráč si vybírýá cestu
+### Úvodní slova:
+
+* Rozcestí – Na své cestě za záchranou lesa si vyber svou cestu! Můžeš si vybrat buď les či bažinu, vybírej moudře!
+
+* Vlk, Čarodějnice, Sova, Bažiňák – Gratuluji, porazil jsi...! ..... Tě ale nepustí dál, pokud neodpovíš na jeho/její otázky! Pamatuj, máš jen tři pokusy na všechny odpovědi! Hodně štěstí do tvé další cesty!
+
+* Duch, Řeka – Ajajaj! Tady někdo nevěděl odpověď... Aby jsi mohl pokračovat ve své cestě musíš dokázat, že můžeš pokračovat. Duch/Řeka ti dá několik otázek, které musíš dobře zodpovědět, abys mohl pokračovat dál... Ovšem, když už jsi tady, tak tě .... pošle na malinko jinou cestu, která pro tebe bude třeba trochu přijatelnější ;-)
+
+* Hospoda – Vítej v hospodě....zde můžeš získat své další pokusy nebo jen přečkat déšť!
+
+* Kořeny – Skvěle, zvolil sis cestu lesem! Pozor ale, máš přes sebou kořeny, které ti zatarasily cestu! Vyber správnou odpověď v hádance a potaz kořeny!
+
+* Žába – Skvěle, zvolil sis cestu do bažiny! Pozor ale, cestu do bažiny hlídá žába, která tě jen tak nenechá projít! Odpověz správně na její otázky a žába tě nechá projít!
+
+* Propast – Právě ses dostal až nakonec. Zbývá ti už jen projít přes lávku a osvobodíš les od temnoty! Lávka je ale stará a nechá projít jen někoho! Dokážeš odpovědět na otázku a osvobodit les?
+* Konec – Gratuluji! Osvobodil si les, temnota ustoupila a zvířata se zas mohou volně pohybovat... Příroda ti děkuje a přeje ti mnoho štěstí na tvé další cestě!
   
 ### Propast
 Hráč musí projít na propastí, bohužel má jen jeden pokus (poslední level)
 
 ## Hádanky
+* Otázka:
+  
 ![hadanka](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/otazka.png)
+
+* Odpověď:
+  
 ![odpoved](https://github.com/pslib-cz/2023-l4-web-mockupapp-karolina-fucikova/blob/af61a3f8b669826296c4a7fe1fe5413d506822fe/vzhled/odpoved.png)
+
+* Šipkou se hráč dostane na další hádanku.
+
+## Otázky
 
 ### 1.	Kořeny
 
@@ -256,5 +273,9 @@ c.	Která z následujících bobulovin není jedlá?
 *	Trnky
 *	**Ptačí zob**
 
+## Vylepšení
 
+* Více otázek, aby se dali střídat
+* Rozšířit mapu
+* Vymyslet jiné formy rébusů
 
