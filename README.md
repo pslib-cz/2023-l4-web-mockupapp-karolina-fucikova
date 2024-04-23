@@ -125,7 +125,7 @@ d.	Který pohanský svátek oslavovaný v lesích je spojen s jarní rovnodennos
 
 a.	Který lesní pták je nejmenší v České republice?
 
-*	**Králíček ohnivý**
+*	**Králíček obecný**
 *	Remek drobný
 *	Pískala lesní
 
