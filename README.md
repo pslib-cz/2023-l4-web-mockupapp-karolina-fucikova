@@ -9,7 +9,7 @@
 ## Úvod hry
 Na začátku hry vysvětlí děj a pravidla hry npc starý děda, který bude hráče doprovázet po celou jejich cestu. 
 Jeho slova na začátek:
-1.	,, Dávno, když les ještě nebyl zapomenut lidmi a magie v něm volně proudila, se stalo něco děsivého. Bytosti, které kdysi byly spojenci lesa, se obrátily proti němu. Živé stromy byly zahaleny do stínu a vlk se stal zvědavým a nebezpečným.‘‘
+1.	,, Dávno, když les ještě nebyl zapomenut lidmi a magie v něm volně proudila, se stalo něco děsivého. Bytosti, které kdysi byly spojenci lesa, se obrátily proti němu.‘‘
 2.	,, Tvým úkolem je projít lesem nebo bažinou až do konce. Cestou se setkáš s různými výzvami a hádankami, které musíš vyřešit. Máš pouze tři pokusy na každý level, takže zvažuj své kroky pečlivě.‘‘
 3.	,, Tvým cílem je osvobodit les od temnoty a obnovit jeho dávnou sílu. Musíš překonat všechny nástrahy a dojít k cíli – jen tak můžeš zachránit les a jeho obyvatele. Tvá dobrodružství skončí až tehdy, když dorazíš na konec lesa a obnovíš jeho dávnou sílu!‘‘
 
@@ -43,10 +43,10 @@ Ke každému levelu je úvodní slovo:
 * Žába – Skvěle, zvolil sis cestu do bažiny! Pozor ale, cestu do bažiny hlídá žába, která tě jen tak nenechá projít! Odpověz správně na její otázky a žába tě nechá projít!
 
 * Propast – Právě ses dostal až nakonec. Zbývá ti už jen projít přes lávku a osvobodíš les od temnoty! Lávka je ale stará a nechá projít jen někoho! Dokážeš odpovědět na otázku a osvobodit les?
-* Konec – Gratuluji! Osvobodil si les, temnota ustoupila a zvířata se zas mohou volně pohybovat... Příroda ti děkuje a přeje ti mnoho štěstí na tvé další cestě!
+* Konec – Gratuluji! Osvobodil jsi les, temnota ustoupila a zvířata se zas mohou volně pohybovat... Příroda ti děkuje a přeje ti mnoho štěstí na tvé další cestě!
   
 ### Propast
-Hráč musí projít na propastí, bohužel má jen jeden pokus (poslední level)
+Hráč musí projít na propastí, bohužel má jen jeden pokus (poslední level).
 
 ## Hádanky
 * Otázka:
