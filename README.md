@@ -125,8 +125,8 @@ d.	Který pohanský svátek oslavovaný v lesích je spojen s jarní rovnodennos
 
 a.	Který lesní pták je nejmenší v České republice?
 
-*	Králíček ohnivý
-*	**Remek drobný**
+*	**Králíček ohnivý**
+*	Remek drobný
 *	Pískala lesní
 
 b.	Který lesní pták je známý pro svůj krásný zpěv a je symbolem jara?
@@ -141,7 +141,7 @@ c.	Který lesní pták má na hlavě červenou čepičku a živí se hmyzem a bo
 *	Vrána obecná
 *	Kos obecný
 
-d.	Který lesní pták je největší v České republice a žije v dutinách stromů?
+d.	Který lesní pták je největší v České republice?
 
 *	Čáp bílý
 *	Datel černý
@@ -158,7 +158,7 @@ e.	Který lesní pták je tažný a na zimu odlétá do teplých krajin?
 a.	Která žába v České republice je největší?
 
 *	Rosnička obecná
-*	**Skokan zelený**
+*	**Skokan skřehotavý**
 *	Kuňka žlutá
 
 b.	Která žába v České republice je jedovatá?
@@ -183,8 +183,8 @@ b.	Která jedovatá rostlina roste v bažinách a mokřadech a má žluté květ
 
 c.	Která z následujících oblastí v České republice je nejrozsáhlejší bažinou?
 
-*	Brdy
-*	**Šumava**
+*	**Jižní Morava**
+*	Šumava
 *	Dolnomoravský úval
 
 ### 7.	Řeka
@@ -247,7 +247,7 @@ e.	Jaký typ mokřadu se vyznačuje střídavým zaplavováním a vysycháním?
 
 ### 9.	Propast
 
-a.	Jaká je největší přehrada v jizerských horách?
+a.	Jaká je největší přehrada v Jizerských horách?
 
 *	Souš
 *	Černá nisa
@@ -263,7 +263,7 @@ a.	Který z následujících lesních plodů je známý pro svůj vysoký obsah 
 
 b.	Která z následujících hub je jedovatá a může způsobit vážné zdravotní problémy?
 
-*	Hřib smrkový
+*	Holubinka mandlová
 *	Liška obecná
 *	**Muchomůrka zelená**
 
